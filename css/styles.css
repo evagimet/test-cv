@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: "Roboto Bold"; 
+	font-family: 'Roboto Mono', monospace;
 	color: #202070;
 	background-color: #ffffff;
 }
